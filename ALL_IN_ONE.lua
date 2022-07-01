@@ -4,8 +4,9 @@ game:GetService("Players").LocalPlayer.Idled:Connect(function()
     game:GetService("VirtualUser"):ClickButton2(Vector2.new())
 end)
 local games ={
-    [3237168] = "Main",
-    [8569358381] = "Main",
+    [3237168] = "Main",--OPL Original
+    [8569358381] = "Main",--OPL: Anarchy
+    [6938803436] = "ADS",--Anime Dimension
 }
 
 local a = "https://raw.githubusercontent.com/VGKhiem/Scripts/main/"
