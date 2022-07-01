@@ -7,7 +7,8 @@ local games ={
     [3237168] = "Main",--OPL Original
     [8569358381] = "Main",--OPL: Anarchy
     [6938803436] = "ADS",--Anime Dimension
-    [2655311011] = "ADS"--Anime Dimension2
+    [2655311011] = "ADS",--Anime Dimension2
+    [8069117419] = "DS",--Demon SOul
 }
 
 local a = "https://raw.githubusercontent.com/VGKhiem/Scripts/main/"
