@@ -12,7 +12,7 @@
    \ V /   | |  _   ___) |
     \_/    |_| (_) |____/ 
                           
-                          
+ Fuck                         
 ]]
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
