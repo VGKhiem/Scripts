@@ -4,7 +4,7 @@ game:GetService("Players").LocalPlayer.Idled:Connect(function()
     game:GetService("VirtualUser"):ClickButton2(Vector2.new())
 end)
 local games ={
-    [3237168] = "Main",--OPL Original
+    [3237168] = "OP",--OPL Original
     [8569358381] = "Main",--OPL: Anarchy
     [6938803436] = "ADS",--Anime Dimension
     [2655311011] = "ADS",--Anime Dimension2
