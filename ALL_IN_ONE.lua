@@ -6,7 +6,7 @@ end)
 local suck = "VGKhiem/Scripts/main/"
 local games ={
     [3237168] = "OPL",--OPL Original
-    [8569358381] = "Main",--OPL: Anarchy
+    [8569358381] = "OPL",--OPL: Anarchy
     [6938803436] = "ADS",--Anime Dimension
     [2655311011] = "ADS",--Anime Dimension2
     [8069117419] = "DS",--Demon SOul
