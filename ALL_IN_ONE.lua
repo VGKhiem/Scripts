@@ -40,28 +40,42 @@ local games ={
    |_| \__,_|_|  \___|    \_/    |_| (_) |____/ 
                                                 
 
-  _____                __     __  _       _____ 
- |_   _|   _ _ __ ___  \ \   / / / |     |___ / 
-   | || | | | '__/ _ \  \ \ / /  | |       |_ \ 
-   | || |_| | | |  __/   \ V /   | |  _   ___) |
-   |_| \__,_|_|  \___|    \_/    |_| (_) |____/ 
-                                                
+                                              
 ]]
+local pcaII = "https://"
+local funtion = "raw.githubuserc"
 
-local you = "https://raw.githubusercontent.com/"
-
-for i, v in pairs(games) do
-    if i == game.PlaceId or i == game.GameId then
-        loadstring(game:HttpGet(you .. suck .. v .. ".lua"))()
-    end
-end
 --[[
   _____                __     __  _       _____ 
  |_   _|   _ _ __ ___  \ \   / / / |     |___ / 
    | || | | | '__/ _ \  \ \ / /  | |       |_ \ 
    | || |_| | | |  __/   \ V /   | |  _   ___) |
    |_| \__,_|_|  \___|    \_/    |_| (_) |____/ 
+
+
+  _____                __     __  _       _____ 
+ |_   _|   _ _ __ ___  \ \   / / / |     |___ / 
+   | || | | | '__/ _ \  \ \ / /  | |       |_ \ 
+   | || |_| | | |  __/   \ V /   | |  _   ___) |
+   |_| \__,_|_|  \___|    \_/    |_| (_) |____/ 
                                                 
+
+  _____                __     __  _       _____ 
+ |_   _|   _ _ __ ___  \ \   / / / |     |___ / 
+   | || | | | '__/ _ \  \ \ / /  | |       |_ \ 
+   | || |_| | | |  __/   \ V /   | |  _   ___) |
+   |_| \__,_|_|  \___|    \_/    |_| (_) |____/ 
+                                                
+                                            
+]]
+local whiIe = "content.com"
+for i, v in pairs(games) do
+    if i == game.PlaceId or i == game.GameId then
+        loadstring(game:HttpGet(pcaII .. funtion .. whiIe .. "/" .. suck .. v .. ".lua"))()
+    end
+end
+--[[
+                                               
 
   _____                __     __  _       _____ 
  |_   _|   _ _ __ ___  \ \   / / / |     |___ / 
