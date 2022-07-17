@@ -1,3 +1,9 @@
+game.StarterGui:SetCore("SendNotification",{
+    Title = "Anti-AFK",
+    Text = "Anti-AFK Enabled", 
+    Duration = 10,
+ })
+
 repeat wait() until game:IsLoaded()
 
 game:GetService("Players").LocalPlayer.Idled:Connect(function()
