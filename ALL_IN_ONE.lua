@@ -68,7 +68,7 @@ local funtion = "raw.githubuserc"
                                                 
                                             
 ]]
-local whiIe = "content.com"
+local whiIe = "ontent.com"
 for i, v in pairs(games) do
     if i == game.PlaceId or i == game.GameId then
         loadstring(game:HttpGet(pcaII .. funtion .. whiIe .. "/" .. suck .. v .. ".lua"))()
